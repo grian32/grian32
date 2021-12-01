@@ -1,4 +1,3 @@
-## grian32
 
 https://grian.dev/
 
