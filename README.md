@@ -1,6 +1,6 @@
-## Hi there
+## grian32
 
-I'm Grian, a 16 year old developer from Romania with an interest in Deno and Kotlin. I also have a blog, available at: https://grian.dev/
+https://grian.dev/
 
 Discord: grian#4886
 
