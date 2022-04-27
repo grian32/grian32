@@ -1,7 +1,3 @@
-## Hi there!
-
-I'm Grian, a 16 year old developer from Romania with an interest in Deno and Kotlin.
-
 <p align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
